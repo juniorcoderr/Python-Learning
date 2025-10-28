@@ -1,0 +1,42 @@
+{
+  "Name": {
+    "0": "Ram",
+    "1": "Shyam",
+    "2": "Vinayak",
+    "3": "Anish",
+    "4": "Sugam",
+    "5": "Anuj",
+    "6": "Dinesh",
+    "7": "Himanshu"
+  },
+  "Age": {
+    "0": 15,
+    "1": 14,
+    "2": 22,
+    "3": 23,
+    "4": 21,
+    "5": 28,
+    "6": 45,
+    "7": 23
+  },
+  "City": {
+    "0": "Nagpur",
+    "1": "Mumbai",
+    "2": "Bulandshahr",
+    "3": "Sirsa",
+    "4": "Noida",
+    "5": "Lucknow",
+    "6": "Rampur",
+    "7": "Agra"
+  },
+  "State": {
+    "0": "Maharashtra",
+    "1": "Maharashtra",
+    "2": "Uttar Pradesh",
+    "3": "Haryana",
+    "4": "Uttar Pradesh",
+    "5": "Uttar Pradesh",
+    "6": "Uttarakhand",
+    "7": "Uttar Pradesh"
+  }
+}
